@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um Futuro Desenvolvedor Front-End apaixon
 - **Linguagens:** JavaScript, TypeScript
 - **Frameworks:** Angular, Node.js 
 - **Ferramentas:** Git
-- **Afinidades** Metodologias ágeis, resolução de problemas, trabalho em equipe  
+- **Afinidades:** Metodologias ágeis, resolução de problemas, trabalho em equipe  
 
 ## 🚀 Projetos em Destaque
 - **(https://github.com/GabrielOBressan/JS-BinanceAPI) Feito com JavaScript, CSS e HTML.** A real-time dashboard for cryptocurrency market data visualization, featuring interactive price charts for Bitcoin, Ethereum, Ripple, and Solana.
