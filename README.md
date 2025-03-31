@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um Futuro Desenvolvedor Front-End apaixon
 - 💻 Sou um Desenvolvedor buscando minha primeira experiência em desenvolvimento Front-End.
 - 🌟 Apaixonado por inteligência artificial, automação, design de interfaces.
 - 📍 Localizado em Tubarão/SC - Brasil.
-- 🎓 Graduando Análise e Desenvolvimento de Sistemas,pela Universidade UNESC.
+- 🎓 Graduando Análise e Desenvolvimento de Sistemas, pela Universidade UNESC.
 
 ## 🛠️ Habilidades
 - **Linguagens:** JavaScript, TypeScript
