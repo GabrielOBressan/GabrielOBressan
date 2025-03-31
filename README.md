@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Bressan! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um, Futuro Desenvolvedor Front-End apaixonado por tecnologia e inovação. Aqui você pode conhecer um pouco mais sobre mim e meus projetos.
+Bem-vindo ao meu perfil no GitHub! Sou um Futuro Desenvolvedor Front-End apaixonado por tecnologia e inovação. Aqui você pode conhecer um pouco mais sobre mim e meus projetos.
 
 ## 📖 Sobre Mim
 - 💻 Sou um Desenvolvedor buscando minha primeira experiência em desenvolvimento Front-End.
